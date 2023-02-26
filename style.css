@@ -1,0 +1,26 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    font-family: 'Climate Crisis', cursive;
+    font-family: 'Gloock', serif;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.fixed-nav #fixedmenu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+li {
+    border-radius: 10px;
+    margin-right: 3px;
+    color: blueviolet;
+    font-weight: bold;
+}
