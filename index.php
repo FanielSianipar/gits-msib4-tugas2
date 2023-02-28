@@ -77,7 +77,7 @@
         <footer>
             <div id="tambahan" class="card" style="max-width: 500px; margin: auto; margin-bottom: 20px">
                 <h2>Tambahan</h2>
-                <p>Bingung mau ngisi apa lagi. Bingung mau ngisi apa lagi.</p>
+                <p>Bingung mau ngisi apa lagi. Bingung mau ngisi apa lagi. Bingung mau ngisi lagi.</p>
             </div>
         </footer>
 
